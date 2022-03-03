@@ -5,7 +5,7 @@
 
 İlkokulu, 1999-2007 yılları arasında Prof. Muharrem Ergin İ.Ö.O'da okudu. Liseyi, 2007-2012 yılları arasında İnönü Endüstri Meslek Lisesi Elektrik - Elektronik Teknolojisi bölümünde, Pano Tasarım ve Montajı alanında, üniversite eğitimimi ise 2015-2016 yılları arasında Ondokuz Mayıs Üniversitesi - Bilgisayar Programcılığı ve 2017-2020 yılları arasında Anadolu Üniversitesi - Yönetim Bilişim Sistemleri programlarını bitirerek tamamladı.
 
-2011 yılında lise eğitimimi tamamlamasının ardından, iş hayatına atılarak sırasıyla; Vatan Bilgisayar, Teleperformance Türkiye, Bilser Bilgisayar ve Rehberlik Çağrı Merkezi, Info-line Rehberlik ve Çağrı Merkezi gibi firmalarda çeşitli tecrübeler edindi. Ardından Nesine.com'da sırasıyla; Müşteri İlişkileri Sorumlusu, Müşteri İlişkileri Takım Lideri olarak çalıştıktan sonra Ocak 2018 itibariyle, hâlâ çalışmakta olduğu Müşteri Farkındalığı ve Analiz pozisyonuna terfi etti.
+2011 yılında lise eğitimimi tamamlamasının ardından, iş hayatına atılarak sırasıyla; Vatan Bilgisayar, Teleperformance Türkiye, Bilser Bilgisayar ve Rehberlik Çağrı Merkezi, Info-line Rehberlik ve Çağrı Merkezi gibi firmalarda çeşitli tecrübeler edindi. Ardından Nesine.com'da sırasıyla; Müşteri İlişkileri Sorumlusu, Müşteri İlişkileri Takım Lideri olarak çalıştıktan sonra Ocak 2018 itibariyle, hâlâ çalışmakta olduğu Müşteri Farkındalığı ve Analiz Yöneticisi pozisyonuna terfi etti.
 
 Nesine.com'da çalıştığı süre içerisinde müşteri temsilcilerinin bilgiye kolay erişimine imkan sağlamak amacıyla 2018 yılında tasarım ve kodlaması kendisine ait olan Nesinextra isimli bilgi portalını hayata geçirdi.
 
