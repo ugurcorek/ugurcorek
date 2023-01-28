@@ -13,33 +13,44 @@ Müşteri Hizmetleri alanında 10 yıldan fazla tecrübeye sahip olmak ile berab
 
 ## KODLAMA YETENEKLERİ
 
-- PHP >> 90%
-- CodeIgniter 3 >> 80%
-- JavaScript >> 85%
-- jQuery >> 90%
-- HTML5 & CSS3 >> 100%
-- C & C++ & C# & Phyton & ASP & ASP.NET >> 30%
-- Bootstrap 4 >> 85%
-- MySQL >> 100%
-- T-SQL >> 80%
-- MsSQL >> 75%
+- PHP
+- CodeIgniter 3
+- JavaScript
+- jQuery
+- HTML5 & CSS3
+- C & C++ & C# & Phyton & ASP & ASP.NET
+- Bootstrap 4
+- MySQL
+- T-SQL
+- MsSQL
 
 ## BİLGİSAYAR BİLGİLERİ
 
-- Microsoft Excel >> 100%
-- Microsoft Word >> 90%
-- Microsoft PowerPoint >> 85%
-- Microsoft PowerBI >> 80%
-- Microsoft CRM Dynamics >> 80%
-- Tableau Desktop >> 90%
-- Atlassian Jira >> 90%
+- Microsoft Excel
+- Microsoft Word
+- Microsoft PowerPoint
+- Microsoft PowerBI
+- Microsoft CRM Dynamics
+- Tableau Desktop
+- Atlassian Jira
 
 ## SERTİFİKALARI
 
+- CodeIgniter / Udemy / Ocak 2023
+- Sıfırdan Uygulamalı MySQL Eğitimi / Udemy / Ocak 2023
+- Tableau, PowerBI ve Excel ile Komple Veri Analizi / Udemy / Ocak 2023
+- Müşteri Deneyimi Yönetimi / Udemy / Aralık 2022
+- Tableau / Udemy / Aralık 2022
+- İngilizce Eğitimi / Cambly / Eylül 2022
 - Müşteri Deneyimi / Userspots / Ocak 2022
+- Microsoft Excel / Udemy / Ocak 2022
+- Sıfırdan PHP ve MySQL Eğitim Serisi / Udemy / Ocak 2022
+- Tableau / Kara Danışmanlık / Kasım 2021
 - Etkili Yönetim, Zirvede Liderlik / Perfosmart / Ekim 2021
 - Tasarım Odaklı Düşünme / Koç Üniversitesi Yaşam Boyu Eğitim Merkezi / Mart 2020
-- Yöneticinin Temelleri / EdERA / Ağustos 2018
+- Yönetici Uygulama Eğitimi / Uniq / Ocak 2019
+- Microsoft SQL Server & T-SQL / Udemy / Kasım 2018
+- Yöneticinin Temelleri / EdERA / Haziran 2018
 - İş İngilizcesi / MEF Üniversitesi / Aralık 2016
 - Etkili Sunum Teknikleri / Tack TMI / Haziran 2016
 - Microsoft Excel / KB Kurumsal / Haziran 2014
