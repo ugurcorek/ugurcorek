@@ -37,6 +37,7 @@ Müşteri Hizmetleri alanında 10 yıldan fazla tecrübeye sahip olmak ile berab
 
 ## SERTİFİKALARI
 
+- Laravel / Udemy / Mart 2023
 - CodeIgniter / Udemy / Ocak 2023
 - Sıfırdan Uygulamalı MySQL Eğitimi / Udemy / Ocak 2023
 - Tableau, PowerBI ve Excel ile Komple Veri Analizi / Udemy / Ocak 2023
