@@ -14,6 +14,7 @@ Müşteri Hizmetleri alanında 10 yıldan fazla tecrübeye sahip olmak ile berab
 ## KODLAMA YETENEKLERİ
 
 - PHP
+- Laravel
 - CodeIgniter 3
 - JavaScript
 - jQuery
